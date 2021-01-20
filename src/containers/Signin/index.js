@@ -53,14 +53,15 @@ const Signin = (props) => {
           </Col>
         </Row>
       </Container>
-      <div style={{ textAlign: "center" }}>
+      {/* <div style={{ textAlign: "center" }}>
         <p>
           email: <span style={{ fontWeight: "bold" }}>admin@gmail.com</span>
         </p>
         <p>
           password: <span style={{ fontWeight: "bold" }}>123456</span>
         </p>
-      </div>
+        or
+      </div> */}
     </Layout>
   );
 };

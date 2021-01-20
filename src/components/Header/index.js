@@ -34,11 +34,11 @@ const Header = (props) => {
             Signin
           </NavLink>
         </li>
-        {/* <li className="nav-item">
+        <li className="nav-item">
           <NavLink to="/signup" className="nav-link">
             Signup
           </NavLink>
-        </li> */}
+        </li>
       </Nav>
     );
   };
